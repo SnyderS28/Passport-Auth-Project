@@ -1,0 +1,21 @@
+{
+  "name": "Passport-Auth-Project",
+  "version": "1.0.0",
+  "description": "Node.js and Passport Authentication",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SnyderS28/Passport-Auth-Project.git"
+  },
+  "keywords": [],
+  "author": "Steven Snyder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SnyderS28/Passport-Auth-Project/issues"
+  },
+  "homepage": "https://github.com/SnyderS28/Passport-Auth-Project#readme"
+}
